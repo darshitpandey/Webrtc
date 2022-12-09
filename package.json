@@ -15,7 +15,7 @@
     "url": "git@github.com:brandiqa/simplewebrtc-messenger.git"
   },
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "handlebars": "^4.7.6",
     "jquery": "^3.5.1",
     "semantic-ui-css": "^2.3.1",
